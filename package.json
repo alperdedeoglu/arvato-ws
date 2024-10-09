@@ -1,7 +1,7 @@
 {
   "name": "arvato-cap-ws",
   "version": "1.0.0",
-  "description": "A simple CAP project.",
+  "description": "A simple CAP project for arvato colleagues",
   "repository": "<Add your repository here>",
   "license": "UNLICENSED",
   "private": true,
